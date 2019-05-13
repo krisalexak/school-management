@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\School.exe.config
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\School.exe
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\School.pdb
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.exe
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.pdb
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.Migrations.SchoolDB.resources
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.Migrations.SchoolDbv2.resources
+D:\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\School.Migrations.SchoolDbv3.resources
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\School.exe.config
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\School.exe
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\School.pdb
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\EntityFramework.dll
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\EntityFramework.xml
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.Migrations.SchoolDB.resources
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.Migrations.SchoolDbv2.resources
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.Migrations.SchoolDbv3.resources
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.csproj.CopyComplete
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.exe
+D:\Documents\BootCamp\Alexakis_Christos_CB_7_individual_project\School\obj\Debug\School.pdb
